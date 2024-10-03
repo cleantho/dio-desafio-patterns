@@ -1,0 +1,17 @@
+:root {
+    --base-red: #ff2b3a;
+}
+
+body {
+    margin: 0;
+}
+
+#app {
+    margin: 0;
+    padding: 0;
+    font-weight: normal;
+}
+
+.radio {
+    display: flex;
+}
